@@ -35,7 +35,11 @@ Paste the full script below:
 - Don't FORGET TO CHANGE THESE 2 PARAMETERS.
 
 - REPUBLIC_VALIDATOR_ADDRESS, REPUBLIC_KEYRING_PASSWORD
-
+- For example Coinstamp validator address here : raivaloper13swaxn5mecp8ltpcqn4925uz67r3vxajr3zfp8
+  
+- You can look your address from explorer.
+ https://republic-testnet-explorer.vercel.app/validators/raivaloper13swaxn5mecp8ltpcqn4925uz67r3vxajr3zfp8
+  
 - Leave empty to use default RPC
 REPUBLIC_NODE=""
 
